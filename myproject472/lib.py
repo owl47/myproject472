@@ -6,3 +6,4 @@ def summon_a_goose():
 
 def try_me(summon_a_goose):
     return summon_a_goose()
+try_me(summon_a_goose)
